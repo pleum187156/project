@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+}
+h2{
+    background-color: gray;
+    text-align: center;
+    
+}
+h2{
+    font-size: 36pt;
+   
+}
+h3{
+    font-size: 36pt;
+    background-color: tan;
+}
+ul
+{
+    font-size: 30pt;
+}
+img{
+    width: 500px;
+    height: 500px;
+    border-radius: 500pt;
+}
+.flex_container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.flex_container > div{
+    width: 300px;
+    margin-left: 50px;
+
+    
+}
+
+.flex_container > div img{
+    width: 100%;
+
+    
+}
+.pic1{
+    text-align: center;
+}
+.pic2{
+    text-align: center;
+}
